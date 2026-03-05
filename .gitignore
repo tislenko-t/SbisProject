@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+
+# PyCharm
+.idea/
+
+# MacOS
+.DS_Store
+
+# Output files
+Результат/
+
+# Логи
+*.log
+
+
+
